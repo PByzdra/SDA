@@ -1,1 +1,2 @@
 to jest trzeciaaaaa wersja pliku 
+NOwy commit
