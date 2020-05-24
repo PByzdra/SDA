@@ -1,2 +1,4 @@
+Kolejna fcja
 dodana funkcjonalnosc A
 Nowa funkcjonalnosc
+
